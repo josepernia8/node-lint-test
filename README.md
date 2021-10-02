@@ -1,0 +1,1 @@
+This image contains the dependencies to run `yarn lint` and `yarn test` for repos with vue3 sfc eslint jest
